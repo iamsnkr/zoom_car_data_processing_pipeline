@@ -19,7 +19,7 @@
           "notebook_path": "/Workspace/zoom_car_data_processing_pipeline/process_zoom_car_bookings",
           "source": "WORKSPACE"
         },
-        "existing_cluster_id": "1011-144227-dc70qghl",
+        "existing_cluster_id": "1011-id",
         "timeout_seconds": 0,
         "email_notifications": {},
         "webhook_notifications": {}
