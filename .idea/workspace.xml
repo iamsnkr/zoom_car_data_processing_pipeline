@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec86a57f-4f95-43f8-9b61-6a4c001bf3e3" name="Changes" comment="" />
+    <list default="true" id="ec86a57f-4f95-43f8-9b61-6a4c001bf3e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,9 @@
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/site-packages/delta/parse.py" root0="SKIP_INSPECTION" />
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python311/Lib/site-packages/pyspark/sql/functions.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -44,11 +51,16 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Grow_Data_Skills/Module_9/Project/zoom_car_data_processing_pipeline"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Grow_Data_Skills\Module_9\Project\zoom_car_data_processing_pipeline" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Grow_Data_Skills\Module_9\Project\zoom_car_data_processing_pipeline\databricks_code" />
       <recent name="D:\Grow_Data_Skills\Module_9\Project\zoom_car_data_processing_pipeline" />
       <recent name="D:\Grow_Data_Skills\Module_9\Project\zoom_car_data_processing_pipeline\data_generator\data" />
     </key>
